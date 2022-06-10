@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IntelliconSdk.iml" filepath="$PROJECT_DIR$/.idea/modules/IntelliconSdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IntelliconSdk.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IntelliconSdk.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IntelliconSdk.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IntelliconSdk.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IntelliconSdk.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IntelliconSdk.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IntelliconSdk.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IntelliconSdk.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intelliconlibrary/IntelliconSdk.intelliconlibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/intelliconlibrary/IntelliconSdk.intelliconlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intelliconlibrary/IntelliconSdk.intelliconlibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/intelliconlibrary/IntelliconSdk.intelliconlibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intelliconlibrary/IntelliconSdk.intelliconlibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/intelliconlibrary/IntelliconSdk.intelliconlibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intelliconlibrary/IntelliconSdk.intelliconlibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/intelliconlibrary/IntelliconSdk.intelliconlibrary.unitTest.iml" />
+    </modules>
+  </component>
+</project>

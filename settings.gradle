@@ -11,3 +11,4 @@ rootProject.name = "IntelliconSdk"
 include ':app'
 include ':intelliconlibrary'
 
+
