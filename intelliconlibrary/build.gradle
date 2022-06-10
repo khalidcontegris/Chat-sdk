@@ -51,7 +51,7 @@ afterEvaluate {
                 from components.release
                 groupId = "com.adrobz.intelliconsdk"
                 artifactId = "intelliconlibrary"
-                version = '1.0.0'
+                version = '1.0.1'
             }
         }
     }

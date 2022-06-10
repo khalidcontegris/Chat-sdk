@@ -19,12 +19,12 @@ import java.util.Map;
 import io.socket.client.Socket;
 import io.socket.emitter.Emitter;
 
-public class MyLibrary {
+public class ChatSdk {
 
     public Socket mSocket;
     final Context mContext;
 
-    public MyLibrary(Context mContext) {
+    public ChatSdk(Context mContext) {
         this.mContext = mContext;
     }
 
